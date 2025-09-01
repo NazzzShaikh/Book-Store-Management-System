@@ -1,0 +1,40 @@
+-------------------ONLINE DIGITAL MALL BILL---------------------------
+
+----------------------------user1----------------------------------
+
+                                                                  Sat Aug 31 10:44:24 IST 2024
+
+Book Id:- 5  Book Name:-The Catcher in the Rye  Book Quantity:-3  Book Price:-41.97
+Book Id:- 19  Book Name:-The Hidden Garden  Book Quantity:-4  Book Price:-53.0
+--------------------------------------------------------
+|                                                      |
+|TOTAL AMOUNT OF YOUR BILL IS :- 94.97                |
+|                                                      |
+| Payment method : PAYMENT BY CASH ON DELIVERY.                                    |
+--------------------------------------------------------
+-------------------ONLINE DIGITAL MALL BILL---------------------------
+
+----------------------------user1----------------------------------
+
+                                                                  Sat Aug 31 11:10:52 IST 2024
+
+Book Id:- 1  Book Name:-abc  Book Quantity:-2  Book Price:-157.8
+--------------------------------------------------------
+|                                                      |
+|TOTAL AMOUNT OF YOUR BILL IS :- 157.8                |
+|                                                      |
+| Payment method : PAYMENT BY UPI.                                    |
+--------------------------------------------------------
+-------------------ONLINE DIGITAL MALL BILL---------------------------
+
+----------------------------user1----------------------------------
+
+                                                                  Sat Aug 31 11:13:44 IST 2024
+
+Book Id:- 3  Book Name:-The Great Gatsby  Book Quantity:-4  Book Price:-43.96
+--------------------------------------------------------
+|                                                      |
+|TOTAL AMOUNT OF YOUR BILL IS :- 43.96                |
+|                                                      |
+| Payment method : PAYMENT BY UPI.                                    |
+--------------------------------------------------------
